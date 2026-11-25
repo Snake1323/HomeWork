@@ -1,4 +1,4 @@
-package semester1.practice11.homework;
+package semester1.practice12.homework;
 
 import java.util.ArrayList;
 import java.util.Arrays;
